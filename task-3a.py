@@ -39,5 +39,3 @@ for i, n in new:
 
 
 
-
-
